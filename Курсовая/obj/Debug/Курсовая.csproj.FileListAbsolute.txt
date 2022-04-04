@@ -1,0 +1,30 @@
+C:\Users\hp\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\hp\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\hp\source\repos\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\hp\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\hp\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\hp\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\hp\source\repos\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\hp\Desktop\курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\hp\Desktop\курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\hp\Desktop\курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\hp\Desktop\курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\hp\Desktop\курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\hp\Desktop\курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\hp\Desktop\курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\hp\Desktop\3 курс\5 семестр\курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\hp\Desktop\3 курс\5 семестр\курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\hp\Desktop\3 курс\5 семестр\курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\hp\Desktop\3 курс\5 семестр\курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\3 курс\5 семестр\курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\hp\Desktop\3 курс\5 семестр\курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\hp\Desktop\3 курс\5 семестр\курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\3 курс\5 семестр\курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\3 курс\5 семестр\курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\hp\Desktop\3 курс\5 семестр\курсовая\Курсовая\obj\Debug\Курсовая.pdb
